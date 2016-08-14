@@ -1,8 +1,10 @@
 # laravel-tasks-application
 Demo Application - Tasks in Laravel
 
-
-
+#Instructions
+- composer install (download all packages)
+- php artisan migrate (prepare database)
+- 
 
 
 # Laravel PHP Framework
