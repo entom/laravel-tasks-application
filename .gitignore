@@ -7,3 +7,4 @@ Homestead.json
 composer.json
 storage/logs/
 storage/framework/
+.idea/
