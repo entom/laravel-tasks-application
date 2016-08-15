@@ -9,3 +9,4 @@ storage/logs/
 storage/framework/
 storage/app/
 .idea/
+public/node_modules/
