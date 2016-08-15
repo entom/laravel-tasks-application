@@ -1,5 +1,6 @@
 # laravel-tasks-application
-Demo Application - Tasks in Laravel
+Demo Application - Tasks in Laravel. 
+First application in Laravel - starting it will be a simple ToDo App from tutorial. Prepared for learning new framework.
 
 # Instructions
 - composer install (download all packages)
