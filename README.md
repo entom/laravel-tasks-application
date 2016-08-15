@@ -8,6 +8,7 @@ New layout made with MaterializeCSS.
 - chmod -R 777 storage/ (set privelages for storage folders)
 - composer install (download all packages)
 - php artisan migrate (prepare database)
+- npm install (in /public, install packages from package.json)
 
 
 # Laravel PHP Framework
