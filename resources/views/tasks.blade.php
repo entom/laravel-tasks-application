@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-        <!-- Create Task Form -->
+
+@include('common.errors')
 
 <form action="{{ url('task') }}" method="POST" class="form-horizontal">
     {{ csrf_field() }}
