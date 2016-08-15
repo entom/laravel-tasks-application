@@ -2,7 +2,10 @@
 Demo Application - Tasks in Laravel. 
 First application in Laravel - starting it will be a simple ToDo App from tutorial. Prepared for learning new framework.
 
+New layout made with MaterializeCSS.
+
 # Instructions
+- chmod -R 777 storage/ (set privelages for storage folders)
 - composer install (download all packages)
 - php artisan migrate (prepare database)
 
