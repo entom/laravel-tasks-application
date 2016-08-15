@@ -3,7 +3,7 @@ Demo Application - Tasks in Laravel.
 First application in Laravel - starting it will be a simple ToDo App from tutorial. Prepared for learning new framework.
 
 # Instructions
-- chmod -R 777 storge/ (set privelages for storage folders)
+- chmod -R 777 storage/ (set privelages for storage folders)
 - composer install (download all packages)
 - php artisan migrate (prepare database)
 
