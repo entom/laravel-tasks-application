@@ -15,6 +15,13 @@ use App\Task;
 use Illuminate\Http\Request;
 
 /**
+ * Homepage
+ */
+Route::get('/', function () {
+    return view('welcome');
+});
+
+/**
  * Show Task Dashboard
  */
 Route::get('/', function () {
@@ -54,3 +61,6 @@ Route::delete('/task/{task}', function (Task $task) {
 
     return redirect('/');
 });
+Route::auth();
+
+Route::get('/home', 'HomeController@index');
