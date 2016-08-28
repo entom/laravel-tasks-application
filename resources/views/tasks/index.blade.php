@@ -10,7 +10,7 @@
                 {{ csrf_field() }}
                 <div class="row">
                     <div class="input-field col s6">
-                        <input id="name" type="text" class="validate">
+                        <input id="name" type="text" name="name" class="validate">
                         <label for="name">Task</label>
                     </div>
                 </div>
